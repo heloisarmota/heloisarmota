@@ -63,6 +63,7 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![COMO FAZER SEQUÊNCIA DE FIBONACCI NO JAVA USANDO LAÇO FOR (+explicação da lógica 💻)](https://ytcards.demolab.com/?id=13jEKvAnvNk&title=COMO+FAZER+SEQU%C3%8ANCIA+DE+FIBONACCI+NO+JAVA+USANDO+LA%C3%87O+FOR+%28%2Bexplica%C3%A7%C3%A3o+da+l%C3%B3gica+%F0%9F%92%BB%29&lang=en&timestamp=1749156698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "COMO FAZER SEQUÊNCIA DE FIBONACCI NO JAVA USANDO LAÇO FOR (+explicação da lógica 💻)")](https://www.youtube.com/watch?v=13jEKvAnvNk)
 <!-- END YOUTUBE-CARDS -->
 
 
