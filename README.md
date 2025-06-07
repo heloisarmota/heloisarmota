@@ -1,6 +1,11 @@
 # 🟣 Olá, mundo! Eu sou a Heloisa Mota :)
 
-  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 <p align="left">
    
     <p Com grandes poderes vem grandes responsabilidades - Ben Parker </p> 
@@ -19,21 +24,20 @@
  <br>  
  <br>
  
- <p align="center">
-    <a href="mailto:heloisarodriguesmota@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/helorodriguessz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/heloisarmota/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.youtube.com/@helohy5460">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
- </p>
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Minhas+Redes!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
+<div align="center">
+  
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23050C21?style=for-the-badge&logo=instagram&logoColor=%23F544FC&logoSize=auto)](https://instagram.com/helorodriguessz)
+[![LINKEDIN](https://img.shields.io/badge/linkedin-%23050C21?style=for-the-badge&logo=framework&logoColor=%23F544FC&logoSize=auto)](https://www.linkedin.com/in/heloisarmota/)
+[![EMAIL](https://img.shields.io/badge/EMAIL%20Outlook-%23050C21?style=for-the-badge&logo=maildotru&logoColor=%23F544FC&logoSize=auto)](mailto:heloisarodriguesmota@outlook.com)
+[![YOUTUBE](https://img.shields.io/badge/youtube-%23050C21?style=for-the-badge&logo=youtube&logoColor=%23F544FC&logoSize=auto)](https://www.youtube.com/@helohy5460)
+
+</div>
  <br>
  
  
@@ -57,6 +61,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="60" width="60" />
           
 </p>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
+
 
 
 
