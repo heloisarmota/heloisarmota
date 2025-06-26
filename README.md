@@ -23,12 +23,18 @@
 <br>
  <br>  
  <br>
+
+ <p align="center">
+  <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=daisimkit&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=fe58e8&bar_color_cover=false>
+</p>
  
  <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Minhas+Redes!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+
+
 
 <div align="center">
   
@@ -71,7 +77,13 @@
 [![COMO FAZER SEQUÊNCIA DE FIBONACCI NO JAVA USANDO LAÇO FOR (+explicação da lógica 💻)](https://ytcards.demolab.com/?id=13jEKvAnvNk&title=COMO+FAZER+SEQU%C3%8ANCIA+DE+FIBONACCI+NO+JAVA+USANDO+LA%C3%87O+FOR+%28%2Bexplica%C3%A7%C3%A3o+da+l%C3%B3gica+%F0%9F%92%BB%29&lang=en&timestamp=1749156698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "COMO FAZER SEQUÊNCIA DE FIBONACCI NO JAVA USANDO LAÇO FOR (+explicação da lógica 💻)")](https://www.youtube.com/watch?v=13jEKvAnvNk)
 <!-- END YOUTUBE-CARDS -->
 
+<!--
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=daisimkit&width=300)
 </div>
+-->
+
+
+
 
 
 
